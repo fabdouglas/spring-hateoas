@@ -57,7 +57,7 @@
 	</licenses>
 
 	<properties>
-		<spring.version>3.1.2.RELEASE</spring.version>
+		<spring.version>5.2.8.RELEASE</spring.version>
 		<jackson.version>1.9.7</jackson.version>
 		<jaxrs.version>1.0</jaxrs.version>
 		<bundlor.failOnWarnings>true</bundlor.failOnWarnings>
